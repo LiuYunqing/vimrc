@@ -8,6 +8,6 @@ git clone https://github.com/LiuYunqing/vimrc.git
 cd vimrc
 cp vimrc ~/.vimrc
 cd ..
-rm -r vimrc
+rm -rf vimrc
 ```
 
