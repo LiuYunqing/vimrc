@@ -4,7 +4,7 @@ personal vimrc
 
 ##使用说明
 ```
-git clone git@github.com:xaodongdong/vimrc.git
+git clone https://github.com/LiuYunqing/vimrc.git
 cp vimrc ~/.vimrc
 ```
 
